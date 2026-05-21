@@ -84,8 +84,8 @@ The visual analysis included:
 
 ## Dashboard Preview
 
-![Excel Dashboard](images/excel_dashboard.png)
-
+![Excel Dashboard](images/excel_dashboard1.png)
+![Excel Dashboard](images/excel_dashboard2.png)
 ![Power BI Dashboard](images/powerbi_dashboard.png)
 
 ## Key Insights
@@ -106,7 +106,7 @@ It also reinforced the importance of documenting each cleaning step clearly so t
 
 ## Files Included
 
-- `sql/`: SQL scripts used for data cleaning and exploratory analysis.
+- `sql/`: SQL script used for data cleaning and exploratory analysis.
 - `data/`: Raw and cleaned dataset files.
 - `excel/`: Excel analysis and dashboard.
 - `powerbi/`: Power BI dashboard file.
